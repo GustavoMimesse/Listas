@@ -1,0 +1,9 @@
+numeros = [1, 2, 3, 4, 5]
+print(numeros[2])
+
+#-------------------------------------
+
+#index          0                   1
+itens = ["Papel", "Tesoura"], ["Cola", "Lápis"]
+#posição    0        1          0        1
+print(itens[1][1])
